@@ -1,0 +1,14 @@
+a{
+    display: inline-block;
+    width: 120px;
+    padding: 7px;
+    text-align: center;
+    text-decoration: none;
+    margin-top: 20px;
+    margin-left: 50%; 
+    background-color:#667eea;
+}
+a::before,a::after{
+    left: 0;
+    top: 10px;
+}

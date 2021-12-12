@@ -1,0 +1,33 @@
+
+body{
+    background:linear-gradient(rgba(0,0,50,0.5),rgba(0,0,50,0.5)),url(../../images/background.jpg);
+    background-size: cover;
+    background-position: center;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: beige;
+    height: 100vh;
+    font-size: 25mm;
+}
+/* 
+*{
+    font-family: sans-serif;
+    c
+} */
+
+
+a{
+    float: right;
+    background: #555;
+    padding: 10px 15px;
+    color: #fff;
+
+}
+
+a:hover{
+    opacity: .7;
+}
